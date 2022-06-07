@@ -3,7 +3,7 @@
 #EXTINF:-1,PER-Canal N (TV)(SD)
 http://tv.plusme1.xyz:28000/live/israelmantilla/pkooSNPDWH/31437.m3u8
 
-#EXTINF:-1 tvg-id="Latina.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/RMFG5au.png" group-title="General",Latina
+#EXTINF:-1 tvg-chno="2" tvg-id="Latina.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/RMFG5au.png" group-title="General",Latina
 http://177.53.152.186:8000/play/a019/index.m3u8
 
 #EXTINF:-1,PE | America TV HD
