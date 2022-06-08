@@ -6,7 +6,7 @@ http://tv.plusme1.xyz:28000/live/israelmantilla/pkooSNPDWH/31437.m3u8
 #EXTINF:-1 tvg-chno="2" tvg-id="Latina.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/RMFG5au.png" group-title="General",Latina
 http://177.53.152.186:8000/play/a019/index.m3u8
 
-#EXTINF:-1,PE | America TV HD
+#EXTINF:-1,PE | America TV
 http://51.222.43.170:36995/JACKMANiptv/fpdCf3wRuXF2/241144
 
 #EXTINF:-1 tvg-id="1118" tvg-name="Panamericana" tvg-logo="https://i2.paste.pics/967fc9c451334a960cb23ee0482c77bc.png", Panamericana | PE
