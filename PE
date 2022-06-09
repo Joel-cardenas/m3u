@@ -1,10 +1,10 @@
 #EXTM3U x-tvg-url="" tv-test="PE.m3u"
 
 #EXTINF:-1 tvg-chno="1" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4a/Canal_N_1999.svg/revision/latest/scale-to-width-down/1200?cb=20211010015504&path-prefix=es",Canal N
-http://tv.plusme1.xyz:28000/live/israelmantilla/pkooSNPDWH/31437.m3u8
+http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/8984
 
 #EXTINF:-1 tvg-chno="2" tvg-id="Latina.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/RMFG5au.png", Latina
-http://tv.plusme1.xyz:28000/live/israelmantilla/pkooSNPDWH/153589.m3u8
+http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/46590
 
 #EXTINF:-1 tvg-chno="3" tvg-logo="https://movistardeportes.pe/wp-content/uploads/sites/2/2020/09/logo-movistar-deportes.png",Movistar Deportes
 http://tv.plusme1.xyz:28000/live/israelmantilla/pkooSNPDWH/59865.m3u8
@@ -13,13 +13,13 @@ http://tv.plusme1.xyz:28000/live/israelmantilla/pkooSNPDWH/59865.m3u8
 http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/8983
 
 #EXTINF:-1 tvg-chno="5" tvg-id="1118" tvg-name="Panamericana" tvg-logo="https://i2.paste.pics/967fc9c451334a960cb23ee0482c77bc.png", Panamericana
-http://tv.plusme1.xyz:28000/live/israelmantilla/pkooSNPDWH/153588.m3u8
+http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/3173
 
 #EXTINF:-1 tvg-chno="6" tvg-logo="https://uci.pe/images/grafica/logouci.png",UCI Noticias
 http://tv.plusme1.xyz:28000/live/israelmantilla/pkooSNPDWH/153599.m3u8
 
-#EXTINF:-1 tvg-chno="7" tvg-id="705" tvg-name="TV Peru Noticias" tvg-logo="https://lh3.googleusercontent.com/-KD-fsTkMuGk/XoKOALALblI/AAAAAAAAxWc/5phOwY1GlmwfZ4jq32uVem2PZRDigWSCACK8BGAsYHg/s0/2020-03-30.png", TV Peru Noticias
-https://cdnh4.iblups.com/hls/RMuwrdk7M9.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-chno="7" tvg-id="705" tvg-name="TV Peru" tvg-logo="https://lh3.googleusercontent.com/-KD-fsTkMuGk/XoKOALALblI/AAAAAAAAxWc/5phOwY1GlmwfZ4jq32uVem2PZRDigWSCACK8BGAsYHg/s0/2020-03-30.png", TV Peru Noticias
+http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/8986
 
 #EXTINF:-1 tvg-chno="8" tvg-logo="https://i0.wp.com/exitosanoticias.pe/v1/wp-content/uploads/2021/01/LOGO-EXITOSA-ROJO.png",Exitosa
 http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/295658
@@ -34,4 +34,4 @@ https://d2tr4gdfol9ja.cloudfront.net/atv/smil:atv-mas.smil/playlist.m3u8?Playlis
 https://playout.cdn.cartoonnetwork.com.br/playout_02/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Nickelodeon_2009_logo.svg/2560px-Nickelodeon_2009_logo.svg.png",Nickelodeon
-http://51.222.43.170:36995/JACKMANiptv/fpdCf3wRuXF2/263291
+http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/38548
