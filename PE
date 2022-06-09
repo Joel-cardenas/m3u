@@ -39,6 +39,18 @@ http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/3076
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/96/TruTV_Blanco.png/revision/latest?cb=20211223014417&path-prefix=es",LA: tru TV
 http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/284515
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/1024px-TNT_Logo_2016.svg.png",TNT
+http://xcui.vitvabc.xyz:8880/287994016264/287994016264/16760
+
+#EXTINF:-1,Paramount Channel HD+
+http://xcui.vitvabc.xyz:8880/287994016264/287994016264/16746
+
+#EXTINF:-1,Space HD+
+http://xcui.vitvabc.xyz:8880/287994016264/287994016264/16750
+
+#EXTINF:-1,Canal Sony HD+
+http://xcui.vitvabc.xyz:8880/287994016264/287994016264/16700
+
 #EXTINF:-1,XXX: Passion
 http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/48
 
