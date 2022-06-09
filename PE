@@ -1,6 +1,6 @@
 #EXTM3U x-tvg-url="" tv-test="PE.m3u"
 
-#EXTINF:-1 tvg-chno="1",Canal N
+#EXTINF:-1 tvg-chno="1" tvg-logo="https://cds2.canaln.pe/f/img/logo-canaln-2022.png?v1",Canal N
 http://tv.plusme1.xyz:28000/live/israelmantilla/pkooSNPDWH/31437.m3u8
 
 #EXTINF:-1 tvg-chno="2" tvg-id="Latina.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/RMFG5au.png", Latina
