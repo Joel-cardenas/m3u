@@ -1,6 +1,6 @@
 #EXTM3U x-tvg-url="" tv-test="PE.m3u"
 
-#EXTINF:-1 tvg-chno="1" tvg-logo="https://cds2.canaln.pe/f/img/logo-canaln-2022.png?v1",Canal N
+#EXTINF:-1 tvg-chno="1" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4a/Canal_N_1999.svg/revision/latest/scale-to-width-down/1200?cb=20211010015504&path-prefix=es",Canal N
 http://tv.plusme1.xyz:28000/live/israelmantilla/pkooSNPDWH/31437.m3u8
 
 #EXTINF:-1 tvg-chno="2" tvg-id="Latina.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/RMFG5au.png", Latina
@@ -14,6 +14,9 @@ http://tv.plusme1.xyz:28000/live/israelmantilla/pkooSNPDWH/22167.m3u8
 
 #EXTINF:-1 tvg-chno="5" tvg-id="1118" tvg-name="Panamericana" tvg-logo="https://i2.paste.pics/967fc9c451334a960cb23ee0482c77bc.png", Panamericana
 http://tv.plusme1.xyz:28000/live/israelmantilla/pkooSNPDWH/153588.m3u8
+
+#EXTINF:-1 tvg-chno="5" tvg-logo="https://uci.pe/images/grafica/logouci.png",UCI Noticias
+http://tv.plusme1.xyz:28000/live/israelmantilla/pkooSNPDWH/153599.m3u8
 
 #EXTINF:-1 tvg-chno="7" tvg-id="705" tvg-name="TV Peru Noticias" tvg-logo="https://lh3.googleusercontent.com/-KD-fsTkMuGk/XoKOALALblI/AAAAAAAAxWc/5phOwY1GlmwfZ4jq32uVem2PZRDigWSCACK8BGAsYHg/s0/2020-03-30.png", TV Peru Noticias
 https://cdnh4.iblups.com/hls/RMuwrdk7M9.m3u8?PlaylistM3UCL
