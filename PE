@@ -15,11 +15,14 @@ http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/8983
 #EXTINF:-1 tvg-chno="5" tvg-id="1118" tvg-name="Panamericana" tvg-logo="https://i2.paste.pics/967fc9c451334a960cb23ee0482c77bc.png", Panamericana
 http://tv.plusme1.xyz:28000/live/israelmantilla/pkooSNPDWH/153588.m3u8
 
-#EXTINF:-1 tvg-chno="5" tvg-logo="https://uci.pe/images/grafica/logouci.png",UCI Noticias
+#EXTINF:-1 tvg-chno="6" tvg-logo="https://uci.pe/images/grafica/logouci.png",UCI Noticias
 http://tv.plusme1.xyz:28000/live/israelmantilla/pkooSNPDWH/153599.m3u8
 
 #EXTINF:-1 tvg-chno="7" tvg-id="705" tvg-name="TV Peru Noticias" tvg-logo="https://lh3.googleusercontent.com/-KD-fsTkMuGk/XoKOALALblI/AAAAAAAAxWc/5phOwY1GlmwfZ4jq32uVem2PZRDigWSCACK8BGAsYHg/s0/2020-03-30.png", TV Peru Noticias
 https://cdnh4.iblups.com/hls/RMuwrdk7M9.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-chno="8" tvg-logo="https://i0.wp.com/exitosanoticias.pe/v1/wp-content/uploads/2021/01/LOGO-EXITOSA-ROJO.png",Exitosa
+http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/295658
 
 #EXTINF:-1 tvg-chno="9" tvg-id="1065" tvg-name="ATV" tvg-logo="https://i2.paste.pics/d922a7e86589c2702871158b56eccfd1.png", ATV
 https://d2tr4gdfol9ja.cloudfront.net/atv/smil:atv.smil/playlist.m3u8?PlaylistM3UCL
